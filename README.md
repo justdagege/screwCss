@@ -5,10 +5,10 @@
 # example
 
 1. 指定div为flex-box
-    &ltdiv className = 'flex-box'&gt&lt/div&gt"
+    &lt;div className = 'flex-box'&gt;&lt;/div&gt;
 
 2. 设置边距值
-    &ltdiv className = 'm-a-1'&gt&lt/div&gt
+    &lt;div className = 'm-a-1'&gt;&lt;/div&gt;
     m: margin
     p: padding
     a: 全部-四个方向
