@@ -1,0 +1,10 @@
+{
+    "name": "screwcss.css",
+    "version": "1.0.0",
+    "description": "An util css",
+    "main": "screwcss.css",
+    "style": "screwcss.css",
+    "files": [
+      "screwcss.css"
+    ]
+  }
